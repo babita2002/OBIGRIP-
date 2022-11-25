@@ -1,0 +1,24 @@
+body {
+    padding: 80px !important;
+    font-family: 'Times New Roman', Times, serif !important;
+    font-size: 18px !important;
+}
+
+.container {
+    background-color: lightyellow;
+    padding: 10px !important;
+    border: 5px solid brown !important;
+}
+
+#head1 {
+    padding-top: 50px !important;
+}
+
+.text-edit {
+    font-family: Verdena !important;
+    font-size: 20px !important;
+}
+
+.img-edit {
+    box-align: center !important;
+}
